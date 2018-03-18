@@ -5,3 +5,6 @@
 Without specifying `public` the class is implicitly `internal`. This means that the class is only visible inside the same assembly. When you specify `public1`, the class is visible outside the assembly.
 
 It is also allowed to specify the `internal` to modify explicitly.
+
+## C linked list
+![A test image](linked-list-node.png)
